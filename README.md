@@ -1,6 +1,7 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 
 <h1 align="center">Hola! Soy Federico Aguilera</h1>
 <h3 align="center">Full-Stack Developer | Amante del arte y diseño |</h3>
