@@ -7,7 +7,6 @@
 <h3 align="center">Full-Stack Developer | Amante del arte y diseño |</h3>
 <p>Soy un desarrollador Full Stack, introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superarme día a día, con formación en HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express y bases de datos SQL. El mejor sitio de trabajo es aquel que me permita evolucionar constantemente.</p>
 
-- Proyecto individual bootcamp Henry [Videogame APP](https://github.com/Fedeaguilera94/PI-VIDEOGAMES-FT16)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
