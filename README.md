@@ -158,7 +158,7 @@ aguilerafederico94@gmail.com
 
 
 ## Video game app
-<p> React || Redux || Exrepess ||  Sequelize - Postgres</p>
+<p> React || Redux || Express ||  Sequelize - Postgres</p>
 </br>
 <div align='center'>
 <a href="https://github.com/Fedeaguilera94/PI-VIDEOGAMES"><img width="296" height="190" alt="movies-finder-app" src="https://media.giphy.com/media/oDFgcIDzmRDw5xNAZQ/giphy.gif"/></a>
