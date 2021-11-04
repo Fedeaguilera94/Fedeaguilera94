@@ -157,5 +157,5 @@ aguilerafederico94@gmail.com
 # Proyectos
 
 <div align='center'>
-<a href="https://github.com/Fedeaguilera94/PI-VIDEOGAMES"><img width="296" height="190" alt="movies-finder-app" src="https://gfycat.com/bluequarrelsomeavocet" /></a>
+<a href="https://github.com/Fedeaguilera94/PI-VIDEOGAMES"><video width="296" height="190" alt="movies-finder-app" src="https://gfycat.com/bluequarrelsomeavocet" /></a>
 </div>
