@@ -15,12 +15,12 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 <p align="left">
 <a href="https://linkedin.com/in/federicoaguilera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federicoaguilera" height="30" width="40" /></a>
 </p>
-<a>https://linkedin.com/in/federicoaguilera</a>
+<a href="https://linkedin.com/in/federicoaguilera">https://linkedin.com/in/federicoaguilera</a>
 
 <h4 aling="left">Mail</h4>
 <img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="federicoaguilera" height="30" width="30" />
 </p>
-aguilerafederico94@gmail.com
+<a href="mailto:aguilerafederico94@gmail.com">aguilerafederico94@gmail.com</a>
 
 
 
