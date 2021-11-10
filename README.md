@@ -157,7 +157,7 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 # Proyectos
 
 
-## Video game app
+## Video Game App
 <p> React || Redux || Express ||  Sequelize - Postgres</p>
 </br>
 <div align='center'>
