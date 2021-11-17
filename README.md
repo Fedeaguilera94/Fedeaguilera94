@@ -172,7 +172,7 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 <img width="296" height="190" alt="movies-finder-app" src="https://media.giphy.com/media/ULqw1PCApXeQ4lpnCW/giphy.gif"/>
   </a>
 </div>
-<img src="./home.png"/>
+
 
 
 ## Weather app
