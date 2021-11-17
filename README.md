@@ -166,6 +166,7 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 </br>
 
 ## Disney+ Clone
+<p>Next.js || GraphQL || Graphcms </p>
 
 <div align='center'>
   <a href ="https://github.com/Fedeaguilera94/disney-clone-nextJs" > 
