@@ -185,12 +185,15 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 <a href="https://netflix-interface-coral.vercel.app/">
   <p>Deploy </p>
   </a>
-  <div aling="center">
+  <div align="center">
   <a href="https://github.com/Fedeaguilera94/challenge-frontend-netflix">
- <img width="296" height="200" alt="Netflix app" src="https://github.com/Fedeaguilera94/challenge-frontend-netflix/blob/main/Random-movie.png"/>
+ <img width="476" height="236" alt="Netflix app" src="https://github.com/Fedeaguilera94/challenge-frontend-netflix/blob/main/Random-movie.png"/>
   </a>
 </div>
+
+
 ## Weather app
+
 <p>React</p>
 
 <a href="https://climate-app-beige.vercel.app/">
