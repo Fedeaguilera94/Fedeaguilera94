@@ -174,6 +174,7 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 <p>Deploy</p> 
 </a>
 
+<p>Interfaz de Disney+ desarrollada con Next.js y una API propia hecha en <a href="https://graphcms.com/"> <p>GraphCMS</p></a>  </p>
 
 <div align='center'>
   <a href ="https://github.com/Fedeaguilera94/disney-clone-nextJs" > 
