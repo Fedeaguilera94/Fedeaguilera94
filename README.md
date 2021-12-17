@@ -168,7 +168,7 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 </br>
 
 ## Disney+ Clone
-<p>Next.js || GraphQL || Graphcms </p>
+<p>Next.js || GraphQL || <a href="https://graphcms.com/"> Graphcms </a> </p>
 
 <a href="https://disney-clone-next-js.vercel.app/">
 <p>Deploy</p> 
@@ -184,10 +184,12 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 
 ## Netflix app
 
-<p>React.js || The Movie Database API</p>
+<p>React.js || <a href="https://developers.themoviedb.org/3">The Movie Database API</a></p>
 <a href="https://netflix-interface-coral.vercel.app/">
   <p>Deploy </p>
   </a>
+  
+  <p> Desarrollada con React.js, Hooks, CSS puro, consumiendo la API de The Movie Database API, en esta interfaz tipo Netflix se puede ver el top semanal de las peliculas más vistas, y otras secciones más.  </p>
   <div align="center">
   <a href="https://github.com/Fedeaguilera94/challenge-frontend-netflix">
  <img width="476" height="236" alt="Netflix app" src="https://github.com/Fedeaguilera94/challenge-frontend-netflix/blob/main/Random-movie.png"/>
