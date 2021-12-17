@@ -160,6 +160,8 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 ## Video Game App
 <p> React || Redux || Express ||  Sequelize - Postgres</p>
 </br>
+
+<p>Creación de una SPA de video juegos que consume datos de una API externa a través del Back-End desarrollado en Node.js utilizando Express, que guarda los datos consumidos en un base de datos local creada con Postrgre SQL, que pueden ser buscados, ordenados y filtrados. Los componentes del Front-End fueron hechos en React, manejados con Redux y los estilos fueron dados con CSS puro.</p>
 <div align='center'>
 <a href="https://github.com/Fedeaguilera94/PI-VIDEOGAMES"><img width="296" height="190" alt="movies-finder-app" src="https://media.giphy.com/media/oDFgcIDzmRDw5xNAZQ/giphy.gif"/></a>
 </div>
