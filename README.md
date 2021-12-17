@@ -158,7 +158,7 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 
 
 ## Video Game App
-<p> React || Redux || Express ||  Sequelize - Postgres</p>
+<p> React || Redux || Express ||  Sequelize || Postgres || CSS</p>
 </br>
 
 <p>Creación de una SPA de video juegos que consume datos de una API externa a través del Back-End desarrollado en Node.js utilizando Express, que guarda los datos consumidos en un base de datos local creada con Postrgre SQL, que pueden ser buscados, ordenados y filtrados. Los componentes del Front-End fueron hechos en React, manejados con Redux y los estilos fueron dados con CSS puro.</p>
@@ -168,7 +168,7 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 </br>
 
 ## Disney+ Clone
-<p>Next.js || GraphQL || <a href="https://graphcms.com/"> Graphcms </a> </p>
+<p>Next.js || CSS || GraphQL || <a href="https://graphcms.com/"> Graphcms </a> </p>
 
 <a href="https://disney-clone-next-js.vercel.app/">
 <p>Deploy</p> 
@@ -184,7 +184,7 @@ Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superar
 
 ## Netflix app
 
-<p>React.js || <a href="https://developers.themoviedb.org/3">The Movie Database API</a></p>
+<p>React.js || <a href="https://developers.themoviedb.org/3">The Movie Database API</a> || CSS</p>
 <a href="https://netflix-interface-coral.vercel.app/">
   <p>Deploy </p>
   </a>
