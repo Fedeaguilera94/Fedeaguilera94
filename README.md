@@ -17,7 +17,12 @@ NodeJs </br>
 Express</br>
 Bases de datos SQL</br>
 </br>
-A demás estudie la carrera de Diseño y Comunicación Visual en la Universidad Nacional de Lanús</p>
+A demás estudie la carrera de Diseño y Comunicación Visual en la <a href="http://www.unla.edu.ar/" target="black"> Universidad Nacional de Lanús</a> donde utlice programas como </br>
+</br>
+Adobe Illustrator</br>
+Adobe Photoshop</br>
+Adobe InDesign</br>
+</p>
 <p>Actualmente me encuentro trabajando en <a href="https://www.linkedin.com/company/iurco/" target="blank">IURCO</a> como desarrollador Frontend</p>
 
 <h3 align="left">Connect with me:</h3>
