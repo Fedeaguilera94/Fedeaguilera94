@@ -5,9 +5,20 @@
 
 <h1 align="center">Hola! Soy Federico Aguilera</h1>
 <h3 align="center">Full-Stack Developer </h3>
-<p>Soy un desarrollador Full Stack, recibido en el bootcamp de Soy Henry <a href="https://www.soyhenry.com/" target="blank"><img align="center" src="https://database.contxto.com/Uploads/henry1584471565.png" alt="soyhenry" height="30" width="30" /></a>. <br/>
-Estoy introduciéndome en el mundo IT, con ganas de seguir aprendiendo y superarme día a día, con formación en HTML, CSS, JavaScript, Git, React, Redux, NodeJs, Express y bases de datos SQL. A demas estudie la carrera de Diseño y Comunicación Visual en la Universidad Nacional de Lanús</p>
-
+<p>Soy un desarrollador Full Stack, apasionado por el Frontend, recibido en el bootcamp de <a href="https://www.soyhenry.com/" target="blank">Soy Henry </a> en donde aprendi algunas tecnologías como:  </br>
+</br>
+HTML</br>
+CSS </br>
+JavaScript </br>
+Git </br>
+React </br> 
+Redux </br>
+NodeJs </br> 
+Express</br>
+Bases de datos SQL</br>
+</br>
+A demás estudie la carrera de Diseño y Comunicación Visual en la Universidad Nacional de Lanús</p>
+<p>Actualmente me encuentro trabajando en <a href="https://www.linkedin.com/company/iurco/" target="blank">IURCO</a> como desarrollador Frontend</p>
 
 <h3 align="left">Connect with me:</h3>
 
