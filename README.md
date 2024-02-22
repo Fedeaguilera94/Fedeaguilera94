@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hola! Soy Federico Aguilera</h1>
-<h3 align="center">Full-Stack Developer </h3>
+<h3 align="center">Frontend Developer </h3>
 <p>Soy un desarrollador Full Stack, apasionado por el Frontend, recibido en el bootcamp de <a href="https://www.soyhenry.com/" target="blank">Soy Henry </a> en donde aprendi algunas tecnologías como:  </br>
 </br>
 HTML</br>
