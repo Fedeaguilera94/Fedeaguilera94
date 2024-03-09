@@ -1,8 +1,3 @@
-
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
 <h1 align="center">Hola! Soy Federico Aguilera</h1>
 <h3 align="center">Frontend Developer </h3>
 <p>Soy un desarrollador web, apasionado por el Frontend, recibido en el bootcamp de <a href="https://www.soyhenry.com/" target="blank">Soy Henry </a> en donde aprendi algunas tecnologías como:  </br>
