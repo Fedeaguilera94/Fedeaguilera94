@@ -12,7 +12,7 @@ NodeJs </br>
 Express</br>
 Bases de datos SQL</br>
 </br>
-A demás estudie la carrera de Diseño y Comunicación Visual en la <a href="http://www.unla.edu.ar/" target="black"> Universidad Nacional de Lanús</a> donde utlice programas como </br>
+Estudie la carrera de Diseño y Comunicación Visual en la <a href="http://www.unla.edu.ar/" target="black"> Universidad Nacional de Lanús</a> donde utlice programas como </br>
 </br>
 Adobe Illustrator</br>
 Adobe Photoshop</br>
