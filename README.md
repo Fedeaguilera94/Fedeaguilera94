@@ -1,10 +1,10 @@
 <h1 align="center">Hola! Soy Federico Aguilera</h1>
 <h3 align="center">Frontend Developer </h3>
-<p>Soy un desarrollador web, apasionado por el Frontend, recibido en el bootcamp de <a href="https://www.soyhenry.com/" target="blank">Soy Henry </a> en donde aprendi algunas tecnologías como:  </br>
 </br>
 HTML</br>
 CSS </br>
 JavaScript </br>
+
 Git </br>
 React </br> 
 Redux </br>
@@ -16,9 +16,8 @@ A demás estudie la carrera de Diseño y Comunicación Visual en la <a href="htt
 </br>
 Adobe Illustrator</br>
 Adobe Photoshop</br>
-Adobe InDesign</br>
 </p>
-<p>Actualmente me encuentro trabajando en <a href="https://www.linkedin.com/company/iurco/" target="blank">IURCO</a> como desarrollador Frontend</p>
+<p>Actualmente me encuentro trabajando en <a href="https://iurco.com/" target="blank">IURCO</a> como desarrollador Frontend</p>
 
 <h3 align="left">Connect with me:</h3>
 
