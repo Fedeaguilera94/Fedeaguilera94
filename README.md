@@ -9,6 +9,7 @@ CSS </br>
 JavaScript </br>
 React </br> 
 Redux </br>
+GraphQL </br>
 NodeJs </br> 
 Express</br>
 Bases de datos SQL</br>
